@@ -1,0 +1,7 @@
+
+* Apache spark(pre configured and have a knowledge how to configure it and run it.)
+* Python editor such as enthought canopy to run it
+* Jdk 8(not latest version of jdk)
+* Sample data (in my case it  is smallsubset.tsv(tab separated values)
+* Libraries installed such as scikit-learn,numpy,pandas etc.
+
